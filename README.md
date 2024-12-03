@@ -1,6 +1,8 @@
 ### **Predictive Modeling for Early Identification of Student Dropouts and At-Risk Learners**  
 🚀 **Empowering education with data-driven insights to enhance student success.**  
 
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/62a5f008-a1e0-4d0f-8064-e9cedafe71a0">
+
 ---
 
 ## **Project Overview**  
